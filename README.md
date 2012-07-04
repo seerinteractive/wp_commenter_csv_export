@@ -16,6 +16,7 @@ Installation
 
 Automatic Installation
 ----------------------
+
 # Click on the 'Plugins' menu in WordPress Admin
 # Click 'Add new'
 # Type 'Seer Comment Contact Exporter'
@@ -24,5 +25,6 @@ Automatic Installation
 
 Manual installation
 -------------------
+
 # Unzip the zip file into '/wp-content/plugins/' folder
 # Activate the plugin
